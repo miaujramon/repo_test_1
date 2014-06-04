@@ -43,4 +43,5 @@ JOIN ordenador o ON o.persona_id = p.id
 SELECT * FROM persona p, ordenador o
 WHERE o.persona_id = p.id
 
+CAMBIO 2  04/06/2014 EN RAMA DE PRUEBA PARA git brEVOL_repo1_TEST1
 
