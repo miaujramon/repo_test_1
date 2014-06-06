@@ -45,3 +45,7 @@ WHERE o.persona_id = p.id
 
 cambio en rama brEVOL_TEST_AvanceRapido pra test de merge a la rama master.
 
+cambio en rama brEVOL_TEST_Fusion3Bandas para test de merge a la rama master
+
+
+
