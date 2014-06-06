@@ -43,4 +43,5 @@ JOIN ordenador o ON o.persona_id = p.id
 SELECT * FROM persona p, ordenador o
 WHERE o.persona_id = p.id
 
+cambio en rama brEVOL_TEST_AvanceRapido pra test de merge a la rama master.
 
